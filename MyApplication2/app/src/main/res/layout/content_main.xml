@@ -21,6 +21,28 @@
         android:layout_width="71dp"
         android:layout_height="65dp"
         app:srcCompat="@drawable/d6503a8d9f7c42b9bc4548457cb78edf_1280x586" />
+<<<<<<< HEAD
+
+    <EditText
+        android:id="@+id/editTextName"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/white"
+        android:padding="10dp"
+        android:gravity="center"
+        android:background="@drawable/btn_b"
+        android:ems="10"
+        android:hint="Login or Phone number"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView3"
+        android:autofillHints="" />
+=======
+>>>>>>> main
 
     <EditText
         android:id="@+id/editTextName"
@@ -41,6 +63,7 @@
         app:layout_constraintTop_toBottomOf="@+id/imageView3"
         android:autofillHints="" />
 
+    
     <EditText
         android:id="@+id/editLastName"
         android:layout_marginLeft="40dp"

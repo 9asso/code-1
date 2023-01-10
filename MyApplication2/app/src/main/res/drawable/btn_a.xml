@@ -5,7 +5,11 @@
                 android:startColor="#ff4455"
                 android:endColor="#ff4455"
                 android:angle="45"/>
+<<<<<<< HEAD
             <corners android:radius="25dp"/>
+=======
+            <corners android:radius="35dp"/>
+>>>>>>> main
         </shape>
     </item>
 
