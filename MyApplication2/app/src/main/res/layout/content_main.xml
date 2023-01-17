@@ -21,7 +21,6 @@
         android:layout_width="71dp"
         android:layout_height="65dp"
         app:srcCompat="@drawable/d6503a8d9f7c42b9bc4548457cb78edf_1280x586" />
-<<<<<<< HEAD
 
     <EditText
         android:id="@+id/editTextName"
@@ -41,8 +40,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView3"
         android:autofillHints="" />
-=======
->>>>>>> main
+
 
     <EditText
         android:id="@+id/editTextName"
